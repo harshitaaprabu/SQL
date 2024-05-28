@@ -1,0 +1,4 @@
+ALTER TABLE Customer drop Phone;
+Select * from Customer;
+Select * from Customer WHERE CustomerID=2;
+Select Customer Name, country from Customers;
